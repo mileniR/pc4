@@ -1,0 +1,157 @@
+[
+    {
+      "nombre": "Percy",
+      "imagen": "img/e1.png",
+      "pokemones": [
+        { "nombre": "Pikachu" },
+        { "nombre": "Charmander" },
+        { "nombre": "Squirtle" },
+        { "nombre": "Bulbasaur" },
+        { "nombre": "Jigglypuff" }
+      ]
+    },
+    {
+      "nombre": "Cathy",
+      "imagen": "img/e2.png",
+      "pokemones": [
+        { "nombre": "Mewtwo" },
+        { "nombre": "Zapdos" },
+        { "nombre": "Articuno" },
+        { "nombre": "Moltres" },
+        { "nombre": "Dragonite" }
+      ]
+    },
+    {
+      "nombre": "Judith",
+      "imagen": "img/e3.png",
+      "pokemones": [
+        { "nombre": "Sceptile" },
+        { "nombre": "Swampert" },
+        { "nombre": "Blaziken" },
+        { "nombre": "Rayquaza" },
+        { "nombre": "Gardevoir" }
+      ]
+    },
+    {
+      "nombre": "Alistair",
+      "imagen": "img/e4.png",
+      "pokemones": [
+        { "nombre": "Gengar" },
+        { "nombre": "Alakazam" },
+        { "nombre": "Machamp" },
+        { "nombre": "Gyarados" },
+        { "nombre": "Arcanine" }
+      ]
+    },
+    {
+      "nombre": "Naboru",
+      "imagen": "img/e5.png",
+      "pokemones": [
+        { "nombre": "Lugia" },
+        { "nombre": "Ho-Oh" },
+        { "nombre": "Celebi" },
+        { "nombre": "Kyogre" },
+        { "nombre": "Groudon" }
+      ]
+    },
+    {
+      "nombre": "Sally",
+      "imagen": "img/e6.png",
+      "pokemones": [
+        { "nombre": "Dialga" },
+        { "nombre": "Palkia" },
+        { "nombre": "Giratina" },
+        { "nombre": "Arceus" },
+        { "nombre": "Darkrai" }
+      ]
+    },
+    {
+      "nombre": "Morris",
+      "imagen": "img/e7.png",
+      "pokemones": [
+        { "nombre": "Reshiram" },
+        { "nombre": "Zekrom" },
+        { "nombre": "Kyurem" },
+        { "nombre": "Xerneas" },
+        { "nombre": "Yveltal" }
+      ]
+    },
+    {
+      "nombre": "Mel",
+      "imagen": "img/e8.png",
+      "pokemones": [
+        { "nombre": "Solgaleo" },
+        { "nombre": "Lunala" },
+        { "nombre": "Necrozma" },
+        { "nombre": "Zacian" },
+        { "nombre": "Zamazenta" }
+      ]
+    },
+    {
+      "nombre": "Nerio",
+      "imagen": "img/e9.png",
+      "pokemones": [
+        { "nombre": "Rillaboom" },
+        { "nombre": "Cinderace" },
+        { "nombre": "Inteleon" },
+        { "nombre": "Corviknight" },
+        { "nombre": "Toxtricity" }
+      ]
+    },
+    {
+      "nombre": "Roy",
+      "imagen": "img/e10.png",
+      "pokemones": [
+        { "nombre": "Urshifu" },
+        { "nombre": "Zarude" },
+        { "nombre": "Regieleki" },
+        { "nombre": "Regidrago" },
+        { "nombre": "Glastrier" }
+      ]
+    },
+    {
+      "nombre": "Sonia",
+      "imagen": "img/e11.png",
+      "pokemones": [
+        { "nombre": "Calyrex" },
+        { "nombre": "Spectrier" },
+        { "nombre": "Glastrier" },
+        { "nombre": "Regieleki" },
+        { "nombre": "Regidrago" }
+      ]
+    },
+    {
+      "nombre": "Olivia",
+      "imagen": "img/e12.png",
+      "pokemones": [
+        { "nombre": "Mew" },
+        { "nombre": "Celebi" },
+        { "nombre": "Jirachi" },
+        { "nombre": "Manaphy" },
+        { "nombre": "Shaymin" }
+      ]
+    },
+    {
+      "nombre": "Berto",
+      "imagen": "img/e13.png",
+      "pokemones": [
+        { "nombre": "Victini" },
+        { "nombre": "Keldeo" },
+        { "nombre": "Meloetta" },
+        { "nombre": "Genesect" },
+        { "nombre": "Diancie" }
+      ]
+    },
+    {
+      "nombre": "Lionel",
+      "imagen": "img/e14.png",
+      "pokemones": [
+        { "nombre": "Volcanion" },
+        { "nombre": "Magearna" },
+        { "nombre": "Marshadow" },
+        { "nombre": "Zeraora" },
+        { "nombre": "Zarude" }
+      ]
+    }
+  ]
+  
